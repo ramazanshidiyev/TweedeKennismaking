@@ -1,0 +1,11 @@
+# Negeer alle PDF bestanden
+*.PDF
+
+# Negeer de map Drafts
+*.Drafts/
+
+# Negeer alle Excel-bestanden in de map Documents
+Documents/*.xlsx
+
+#Negeer alle PDF-bestanden behalve docs.pdf
+!docs.pdf
